@@ -28,13 +28,13 @@ This project demonstrates data cleaning, model training, evaluation, and visuali
   - 1️⃣ Step 1: Create and activate environment
       - python -m venv venv
       - venv\Scripts\activate
-   -2️⃣ Step 2: Install required libraries
+  - 2️⃣ Step 2: Install required libraries
       - pip install -r requirements.txt
-   -3️⃣ Step 3: Train the model
-     -  python train_titanic.py
-   -4️⃣ Step 4: Make predictions
+  - 3️⃣ Step 3: Train the model
+      - python train_titanic.py
+  - 4️⃣ Step 4: Make predictions
       - python predict.py
- -  5️⃣ Step 5: Visualize the results
+  - 5️⃣ Step 5: Visualize the results
       - python visualize_titanic.py
 
 
