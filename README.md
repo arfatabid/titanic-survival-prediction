@@ -1,14 +1,14 @@
 # Titanic Survival Prediction 🛳️
 
 ## 📌 Project Overview
-This project predicts whether a passenger on the Titanic survived or not using machine learning.  
-It was created as part of my **Data Science Internship Task**.
+A Machine Learning project that predicts whether a passenger survived the Titanic disaster based on their age, gender, ticket class, and fare.
+This project demonstrates data cleaning, model training, evaluation, and visualization.
 
 ## 🧠 Objectives
-- Clean and preprocess Titanic dataset  
-- Build a classification model (Logistic Regression)  
-- Evaluate accuracy and make predictions  
-- Create visual insights from the data  
+- 🧹 Clean and preprocess passenger data
+- 🤖 Train a classification model (Logistic Regression / Random Forest)
+- 📈 Evaluate model accuracy
+- 📊 Visualize survival trends (by gender, age, class, and fare)
 
 ## 🧰 Technologies Used
 - Python 🐍  
